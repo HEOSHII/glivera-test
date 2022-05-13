@@ -145,7 +145,7 @@
     background: #22252e;
   }
   .header__navigation {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: -100%;
     right: 100%;
